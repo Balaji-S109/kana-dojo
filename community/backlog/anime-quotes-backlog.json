@@ -1398,5 +1398,15 @@
     "character": "Eren Yeager",
     "issued": false,
     "completed": false
-  }
+  },
+  {
+  "id": 141,
+  "japanese": "努力は裏切らない。",
+  "romaji": "Doryoku wa uragiranai.",
+  "english": "Hard work never betrays.",
+  "anime": "Naruto",
+  "character": "Might Guy",
+  "issued": false,
+  "completed": true
+}
 ]
