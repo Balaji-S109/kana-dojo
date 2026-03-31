@@ -15,7 +15,7 @@
     "example": "駅前のマンションに住んでいます。",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "コンセント (konsento)",
@@ -51,7 +51,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -60,7 +60,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -69,7 +69,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 8,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -87,7 +87,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -105,7 +105,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -114,7 +114,7 @@
     "example": "ミスしてもドンマイ！",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "チャレンジ (charenji)",
@@ -141,7 +141,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -149,7 +149,7 @@
     "explanation": "Often means impression/public image. (Set 1)",
     "example": "会社のイメージが良くなった。",
     "id": 17,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -168,7 +168,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -195,7 +195,7 @@
     "example": "駅前のマンションに住んでいます。",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "コンセント (konsento)",
@@ -230,7 +230,7 @@
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 2)",
     "example": "ホテルの朝食はバイキングです。",
     "id": 26,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -240,7 +240,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -249,7 +249,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 28,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -267,7 +267,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 30,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -284,7 +284,7 @@
     "explanation": "ホッチキス means stapler. (Set 2)",
     "example": "資料をホッチキスで留めてください。",
     "id": 32,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -293,7 +293,7 @@
     "explanation": "Used to comfort someone: 'never mind'. (Set 2)",
     "example": "ミスしてもドンマイ！",
     "id": 33,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -321,7 +321,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -348,7 +348,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 39,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -374,7 +374,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 3)",
     "example": "駅前のマンションに住んでいます。",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -383,7 +383,7 @@
     "explanation": "コンセント means electrical outlet. (Set 3)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 43,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -392,7 +392,7 @@
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 3)",
     "example": "彼はスマートな着こなしをしている。",
     "id": 44,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -411,7 +411,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -419,7 +419,7 @@
     "explanation": "カンニング means cheating on tests. (Set 3)",
     "example": "試験でカンニングしてはいけません。",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -429,7 +429,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -447,7 +447,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 50,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -465,7 +465,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -474,7 +474,7 @@
     "example": "ミスしてもドンマイ！",
     "id": 53,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "チャレンジ (charenji)",
@@ -501,7 +501,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -509,7 +509,7 @@
     "explanation": "Often means impression/public image. (Set 3)",
     "example": "会社のイメージが良くなった。",
     "id": 57,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -519,7 +519,9 @@
     "example": "父は都内でサラリーマンをしている。",
     "id": 58,
     "issued": false,
-    "completed": true
+    "completed": true,
+    "completedBy": "24f2008779",
+    "completedPR": 10985
   },
   {
     "termA": "ペットボトル (petto botoru)",
@@ -528,7 +530,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -555,7 +557,7 @@
     "example": "駅前のマンションに住んでいます。",
     "id": 62,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "コンセント (konsento)",
@@ -591,7 +593,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -600,7 +602,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -609,7 +611,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 68,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -617,7 +619,7 @@
     "explanation": "In Japanese it usually means complaint. (Set 4)",
     "example": "お客様からクレームが届いた。",
     "id": 69,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -627,7 +629,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 70,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -645,7 +647,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -680,7 +682,7 @@
     "explanation": "Means very energetic mood. (Set 4)",
     "example": "試合前はみんなハイテンションだった。",
     "id": 76,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -708,7 +710,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -734,7 +736,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 5)",
     "example": "駅前のマンションに住んでいます。",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -771,7 +773,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -780,7 +782,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 87,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -789,7 +791,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 88,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -806,7 +808,7 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 5)",
     "example": "彼は意外とナイーブな性格だ。",
     "id": 90,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -825,7 +827,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -834,7 +836,7 @@
     "example": "ミスしてもドンマイ！",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "チャレンジ (charenji)",
@@ -861,7 +863,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -869,7 +871,7 @@
     "explanation": "Often means impression/public image. (Set 5)",
     "example": "会社のイメージが良くなった。",
     "id": 97,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -888,7 +890,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -896,7 +898,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 5)",
     "example": "子どものころからアニメが好きだ。",
     "id": 100,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -915,7 +917,7 @@
     "example": "駅前のマンションに住んでいます。",
     "id": 102,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "コンセント (konsento)",
@@ -923,7 +925,7 @@
     "explanation": "コンセント means electrical outlet. (Set 6)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 103,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -951,7 +953,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -960,7 +962,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 107,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -969,7 +971,7 @@
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 108,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "クレーム (kureemu)",
@@ -977,7 +979,7 @@
     "explanation": "In Japanese it usually means complaint. (Set 6)",
     "example": "お客様からクレームが届いた。",
     "id": 109,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -986,7 +988,7 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 6)",
     "example": "彼は意外とナイーブな性格だ。",
     "id": 110,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1005,7 +1007,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -1014,7 +1016,7 @@
     "example": "ミスしてもドンマイ！",
     "id": 113,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "チャレンジ (charenji)",
@@ -1022,7 +1024,7 @@
     "explanation": "Often means trying something new. (Set 6)",
     "example": "新しい料理にチャレンジしてみる。",
     "id": 114,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1067,7 +1069,7 @@
     "explanation": "Common term for plastic drink bottle. (Set 6)",
     "example": "ペットボトルは分別して捨てる。",
     "id": 119,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1076,7 +1078,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 6)",
     "example": "子どものころからアニメが好きだ。",
     "id": 120,
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]
